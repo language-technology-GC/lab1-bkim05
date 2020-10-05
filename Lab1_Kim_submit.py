@@ -241,13 +241,6 @@ Correlation result between PPMI and all 6 methods ranged from -0.02 (Lin) to 0.3
 Overall the coefficient was lower than that of human judgment compared in Part 1.
 '''
 
-''' Stretch goal - tunning paratemers
-
-ppmi script is revised "ppmi_rev" to have add-alpha smotthing option --laplace flag, 
-which accepts one argument from the command line specified as add alpha value
-It calculates the probability of the context word adding alpha value 
-
-'''
 
 #%% Part 3
 
